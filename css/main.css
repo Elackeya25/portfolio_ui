@@ -2452,7 +2452,7 @@ form textarea:required:valid {
 /* Sections Inner Start */
 /* ------------------------------------------------*/
 .inner {
-  padding: 6rem 0;
+  padding: 1rem 0;
 }
 .inner.inner-grid-top {
   padding: 3rem 0 6rem 0;
